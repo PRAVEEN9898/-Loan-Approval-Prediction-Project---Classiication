@@ -38,7 +38,7 @@ This project focuses on predicting loan approval decisions for banking instituti
    ```
 
 
-3. **Run the Model:**
+## 3. **Run the Model:**
    - Use Jupyter Notebook or your preferred Python environment to open and run the provided notebooks.
 
 4. **Explore the Results:**
