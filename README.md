@@ -31,13 +31,14 @@ This project focuses on predicting loan approval decisions for banking instituti
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/loan-prediction-project.git
-   cd loan-prediction-project
+   [git clone https://github.com/your-username/loan-prediction-project.git
+   cd loan-prediction-project](https://github.com/PRAVEEN9898/-Loan-Approval-Prediction-Project---Classiication)
    ```
 
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
+
    ```
 
 3. **Run the Model:**
